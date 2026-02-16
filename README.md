@@ -12,7 +12,6 @@ I'm building a console pprogram that:
     - Asks for height
     - Asks for whether the user is a student (true/false)
     - Prints a formatted summary
-    - Calcualtes how man dyas they've lived (age*365)
 # How I'm I going to build it:
 1. Create a new Java file
 2. Create my main method
@@ -26,3 +25,10 @@ I'm building a console pprogram that:
 6. Store the input into variables 
 7. Perform a calculation
 8. Print everything in a clean formatted sentence.
+
+# What I learned from this.
+1. Different types of data types and how to use them.
+2. How to get user inputs using scanner in java.
+3. Touched on while loop and used it in the code.
+4. How to print out the results after getting the inputs.
+5. How to store user inputs into variables.
